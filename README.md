@@ -28,7 +28,7 @@ Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepa
 ### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Native-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-Backend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Backend" />
+  <!-- <img src="https://img.shields.io/badge/JavaScript-Backend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Backend" /> -->
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
@@ -41,7 +41,7 @@ Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepa
 
 ### Tools & Environment
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <!-- <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> -->
   <img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-Kali_&_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -51,7 +51,7 @@ Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepa
 ---
 
 ## 📚 Currently Learning
-- Java (OOP, logic, looping, real-case project)
+- PHP (OOP, logic, looping, real-case project) coming soon to Laravel
 - API (REST, integrasi web)
 - Cybersecurity dasar (network, Linux tools)
 
