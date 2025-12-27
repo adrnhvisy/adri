@@ -34,22 +34,12 @@ Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepa
 ![VSCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-Java_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrnhvisy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrnhvisy&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
 ---
 
 ## 📚 Currently Learning
 - Java (OOP, logic, looping, real-case project)
 - API (REST, integrasi web)
 - Cybersecurity dasar (network, Linux tools)
-- Data Science (pelan tapi niat)
 
 ---
 
