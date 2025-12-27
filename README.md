@@ -7,6 +7,14 @@ Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepa
 
 ---
 
+<p align="center">
+    <a href="https://youtube.com/@deaafrizal">
+      <img src="https://render.gitanimals.org/lines/adrnhvisy?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
+
+---
+
 ## 🚀 About Me
 - 🎓 Mahasiswa IT  
 - 💻 Backend enthusiast (**PHP**)  
@@ -18,21 +26,27 @@ Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepa
 ## 🛠 Tech Stack
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-Native-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Backend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Native-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-Backend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Backend" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript DOM" />
+</p>
 
 ### Tools & Environment
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-Kali_&_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-Java_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-Kali_&_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NetBeans-Java_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
+</p>
 
 ---
 
