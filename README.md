@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Adrian Havis Yandisa<br>🖥️ I’m a student at<br>Politeknik Negeri Padang, majoring in Information Management.<br>🚀 I’m looking to collaborate on<br>Projects related to web development and programming.
+👋 Hi, I’m Adrian Havis<br>🖥️ I’m a student at<br>Politeknik Negeri Padang, majoring in Information Management.<br>🚀 I’m looking to collaborate on<br>Projects related to web development and programming.
 
 
 ## 🌐 Socials:
