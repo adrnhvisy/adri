@@ -1,73 +1,18 @@
-# 👋 Hi, I’m Adrian Havis Yandisa
+# 💫 About Me:
+👋 Hi, I’m Adrian Havis Yandisa<br>🖥️ I’m a student at<br>Politeknik Negeri Padang, majoring in Information Management.<br>🚀 I’m looking to collaborate on<br>Projects related to web development and programming.
 
-Mahasiswa IT yang lagi serius nyiapin masa depan, bukan cuma ngumpulin tugas.  
-Fokus di **Backend Development**, sambil nyentuh **Frontend**.  
-### 😁Do'a in yaa 🙏
-Lebih suka belajar lewat **proyek nyata** daripada teori panjang yang bikin kepala mendidih.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrnhvisy) 
 
-<p align="center">
-    <a href="https://youtube.com/@deaafrizal">
-      <img src="https://render.gitanimals.org/lines/adrnhvisy?pet-id=657051833278790750" width="600" height="120" />
-    </a>
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 Mahasiswa IT  
-- 💻 Backend enthusiast (**PHP**)  
-- 🌐 Frontend basics (**HTML, CSS, JS**)  
-- 🧠 Belajar pelan tapi konsisten (yang penting jalan)
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adrnhvisy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adrnhvisy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrnhvisy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=adrnhvisy&icon=5&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-Native-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <!-- <img src="https://img.shields.io/badge/JavaScript-Backend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Backend" /> -->
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript DOM" />
-</p>
-
-### Tools & Environment
-<p align="center">
-  <!-- <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> -->
-  <img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-Kali_&_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/NetBeans-Java_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
-</p>
-
----
-
-## 📚 Currently Learning
-- PHP (OOP, logic, looping, real-case project) coming soon to Laravel
-- API (REST, integrasi web)
-- Cybersecurity dasar (network, Linux tools)
-
----
-
-## 🎯 Goals
-- Jadi backend developer yang paham konsep, bukan cuma copy-paste
-- Bangun project real yang bisa dipamerin tanpa malu
-- Punya skill yang kepake di dunia kerja, bukan cuma di kampus
-
----
-
-## 📫 Let’s Connect
-- GitHub: https://github.com/adrnhvisy 
-- Instagram: https://www.instagram.com/adrnhvisy 
-
----
-
-> *“Belajar IT itu bukan soal siapa yang paling cepat, tapi siapa yang nggak berhenti.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
